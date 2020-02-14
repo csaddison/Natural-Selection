@@ -6,9 +6,9 @@
 
 
 // Imports
-import Animal from '/animals.js';
-import Food from '/food.js';
-import Chart from '/graph.js';
+import Animal from '/scripts/animals.js';
+import Food from '/scripts/food.js';
+import Chart from '/scripts/graph.js';
 
 
 // Initialize variables

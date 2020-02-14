@@ -6,8 +6,8 @@
 
 
 // Imports
-import * as Vector from '/vectors.js'
-import Food from '/food.js';
+import * as Vector from '/scripts/vectors.js'
+import Food from '/scripts/food.js';
 
 
 
